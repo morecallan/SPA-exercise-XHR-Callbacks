@@ -1,0 +1,24 @@
+{
+  "herbivores": [
+    {
+      "name": "Beaver",
+      "origin": "Germany"
+    },
+    {
+      "name": "Donkey",
+      "origin": "Egypt"
+    },
+
+    {
+      "name": "Mountain Goat",
+      "origin": "Alaska"
+    },
+
+    {
+      "name": "Chinkara",
+      "origin": "India"
+
+    }
+
+  ]
+}
