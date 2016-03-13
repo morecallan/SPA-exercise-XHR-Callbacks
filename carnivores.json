@@ -1,0 +1,24 @@
+{
+  "carnivores": [
+    {
+      "name": "Tigers",
+      "origin": "Africa"
+    },
+    {
+      "name": "Polar Bears",
+      "origin": "Ireland"
+    },
+
+    {
+      "name": "Ferret",
+      "origin": "Europe"
+    },
+
+    {
+      "name": "Walrus",
+      "origin": "Greenland"
+
+    }
+
+  ]
+}
